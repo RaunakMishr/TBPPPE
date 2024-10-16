@@ -1,0 +1,144 @@
+*{
+    margin: 0;
+    padding: 0%;
+
+}
+
+.nav-bar{
+    height: 600px;
+    background-size: cover;
+    width: 100%;
+    overflow: hidden;
+    background-image: url("https://images.unsplash.com/photo-1719937051176-9b98352a6cf4?q=80&w=2072&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+
+
+}
+.home{
+    padding: 40px 30px 30px 30px;
+    font-size: 20px;
+    color: grey;
+
+
+}
+
+.about{
+    padding: 40px 30px 30px 30px;
+    font-size: 20px;
+    color: grey;
+}
+.portfolio{
+    padding: 40px 30px 30px 30px;
+    font-size: 20px;
+    color: grey;
+}
+.contact{
+    padding: 40px 30px 30px 30px;
+    font-size: 20px;
+    color: grey;
+}
+
+/* .image1{
+    margin-top: 0%;
+    height: 500px;
+    background-size: cover;
+    background-size: cover;
+} */
+.my-logo{
+    margin-top: 250px;
+    margin-left: 600px;
+    display: flex;
+    align-items: center;
+    padding-left: 45px;
+    width: 300px;
+    color: white;
+    font-size: 30px;
+    background-color:black ;
+}
+.page2{
+    height: 250px;
+    margin-left: 20%;
+    width: 60%;
+    justify-content: center;
+    align-items: center;
+}
+
+.about-me{
+    margin-top: 50px;
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.page3{
+    height: 500px;
+    width: 60%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-left: 20%;
+}
+
+.my-name{
+    font-size: 20px;
+    margin-left: 150px;
+}
+.my-name-img{
+    height: 400px;
+    width: 400px;
+    background-image: url("https://plus.unsplash.com/premium_photo-1728657018268-0938eea1d916?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0M3x8fGVufDB8fHx8fA%3D%3D");
+    background-size: cover;
+}
+.intro{
+    height: 450px;
+    width: 400px;
+
+}
+
+.good-at{
+    margin-left: 40%;
+    height: 20px;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+}
+.photography{
+    height: 20px;
+    width: 90%;
+    margin-left: 20%;
+    font-size: 20px;
+
+}
+.webdesign{
+    height: 20px;
+    width: 90%;
+    margin-left: 20%;
+    font-size: 20px;
+
+}
+
+.photoshop{
+    height: 20px;
+    width: 90%;
+    margin-left: 20%;
+    font-size: 20px;
+}
+
+.bars{
+    height: 20px;
+    width: 90%;
+    background-color: grey;
+    margin-left: 20%;
+
+
+}
+.bars1{
+    background-color: gray;
+    height: 20px;
+    width: 80%;
+    margin-left: 20%;
+
+}
